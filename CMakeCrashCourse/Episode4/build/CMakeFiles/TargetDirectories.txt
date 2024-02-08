@@ -1,0 +1,3 @@
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode4/build/CMakeFiles/Learning.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode4/build/CMakeFiles/edit_cache.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode4/build/CMakeFiles/rebuild_cache.dir
