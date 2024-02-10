@@ -1,0 +1,1 @@
+int mean(int* arr, int size);
