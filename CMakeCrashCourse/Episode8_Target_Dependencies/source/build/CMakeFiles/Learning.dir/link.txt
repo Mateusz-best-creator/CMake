@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Learning.dir/src/main.cpp.o -o Learning  liblibstats.a liblibmath.a 

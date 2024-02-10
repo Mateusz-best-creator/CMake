@@ -1,0 +1,4 @@
+CalculatorTest.Add 4 0.00166203
+CalculatorTest.Mul 4 0.00102585
+RunAppTest.OutputTest 2 0.00213641
+---

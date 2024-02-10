@@ -1,0 +1,5 @@
+add_test( CalculatorTest.Add [==[/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_22_Testing_With_GoogleTest/build/test/unit_tests]==] [==[--gtest_filter=CalculatorTest.Add]==] --gtest_also_run_disabled_tests)
+set_tests_properties( CalculatorTest.Add PROPERTIES WORKING_DIRECTORY [==[/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_22_Testing_With_GoogleTest/build/test]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( CalculatorTest.Mul [==[/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_22_Testing_With_GoogleTest/build/test/unit_tests]==] [==[--gtest_filter=CalculatorTest.Mul]==] --gtest_also_run_disabled_tests)
+set_tests_properties( CalculatorTest.Mul PROPERTIES WORKING_DIRECTORY [==[/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_22_Testing_With_GoogleTest/build/test]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( unit_tests_TESTS CalculatorTest.Add CalculatorTest.Mul)

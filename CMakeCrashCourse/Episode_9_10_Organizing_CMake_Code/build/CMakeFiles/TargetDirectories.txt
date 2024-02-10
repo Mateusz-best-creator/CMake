@@ -1,0 +1,12 @@
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/CMakeFiles/Learning.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/CMakeFiles/edit_cache.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/CMakeFiles/rebuild_cache.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/source/statistics/CMakeFiles/statistics.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/source/statistics/CMakeFiles/edit_cache.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/source/statistics/CMakeFiles/rebuild_cache.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/source/operations/CMakeFiles/operations.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/source/operations/CMakeFiles/edit_cache.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/source/operations/CMakeFiles/rebuild_cache.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/source/helper/CMakeFiles/helper.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/source/helper/CMakeFiles/edit_cache.dir
+/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_9_10_Organizing_CMake_Code/build/source/helper/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/rooster.dir/main.cpp.o -o rooster  src/libcalculator.a 

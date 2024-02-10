@@ -1,0 +1,57 @@
+Start testing: Feb 10 15:07 CET
+----------------------------------------------------------
+1/2 Testing: CalculatorTest.Add
+1/2 Test: CalculatorTest.Add
+Command: "/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_22_Testing_With_GoogleTest/build/test/unit_tests" "--gtest_filter=CalculatorTest.Add" "--gtest_also_run_disabled_tests"
+Directory: /home/mateusz/C++/CMake/CMakeCrashCourse/Episode_22_Testing_With_GoogleTest/build/test
+"CalculatorTest.Add" start time: Feb 10 15:07 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/mateusz/C++/CMake/CMakeCrashCourse/Episode_22_Testing_With_GoogleTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CalculatorTest.Add
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalculatorTest
+[ RUN      ] CalculatorTest.Add
+[       OK ] CalculatorTest.Add (0 ms)
+[----------] 1 test from CalculatorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CalculatorTest.Add" end time: Feb 10 15:07 CET
+"CalculatorTest.Add" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: CalculatorTest.Mul
+2/2 Test: CalculatorTest.Mul
+Command: "/home/mateusz/C++/CMake/CMakeCrashCourse/Episode_22_Testing_With_GoogleTest/build/test/unit_tests" "--gtest_filter=CalculatorTest.Mul" "--gtest_also_run_disabled_tests"
+Directory: /home/mateusz/C++/CMake/CMakeCrashCourse/Episode_22_Testing_With_GoogleTest/build/test
+"CalculatorTest.Mul" start time: Feb 10 15:07 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/mateusz/C++/CMake/CMakeCrashCourse/Episode_22_Testing_With_GoogleTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CalculatorTest.Mul
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalculatorTest
+[ RUN      ] CalculatorTest.Mul
+[       OK ] CalculatorTest.Mul (0 ms)
+[----------] 1 test from CalculatorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CalculatorTest.Mul" end time: Feb 10 15:07 CET
+"CalculatorTest.Mul" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 10 15:07 CET
