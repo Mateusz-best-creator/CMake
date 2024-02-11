@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Learning.dir/main.cpp.o CMakeFiles/Learning.dir/src/dog.cpp.o -o Learning  liboperations.a liblogger.a 

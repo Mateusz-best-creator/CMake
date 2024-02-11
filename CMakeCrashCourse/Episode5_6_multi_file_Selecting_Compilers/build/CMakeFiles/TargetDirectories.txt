@@ -1,3 +1,0 @@
-/home/mateusz/C++/CMake/CMakeCrashCourse/Episode5_6_multi_file_Selecting_Compilers/build/CMakeFiles/Learning.dir
-/home/mateusz/C++/CMake/CMakeCrashCourse/Episode5_6_multi_file_Selecting_Compilers/build/CMakeFiles/edit_cache.dir
-/home/mateusz/C++/CMake/CMakeCrashCourse/Episode5_6_multi_file_Selecting_Compilers/build/CMakeFiles/rebuild_cache.dir

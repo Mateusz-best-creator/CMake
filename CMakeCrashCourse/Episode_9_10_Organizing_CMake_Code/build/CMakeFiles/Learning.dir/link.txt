@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Learning.dir/source/main.cpp.o -o Learning  source/statistics/libstatistics.a source/operations/liboperations.a source/helper/libhelper.a 

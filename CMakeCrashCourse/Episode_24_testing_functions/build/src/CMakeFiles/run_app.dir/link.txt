@@ -1,2 +1,0 @@
-/usr/bin/ar qc librun_app.a CMakeFiles/run_app.dir/run_app.cpp.o
-/usr/bin/ranlib librun_app.a

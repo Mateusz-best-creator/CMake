@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Learning.dir/source/src/main.cpp.o CMakeFiles/Learning.dir/source/src/person.cpp.o -o Learning 
