@@ -181,8 +181,10 @@ CMakeFiles/Learning.dir/main.cpp.o: ../main.cpp \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
   /usr/include/c++/11/bits/istream.tcc \
-  ../cars/cars.h
+  ../source/cars/cars.h
 
+
+../source/cars/cars.h:
 
 /usr/include/c++/11/bits/istream.tcc:
 
@@ -491,8 +493,6 @@ CMakeFiles/Learning.dir/main.cpp.o: ../main.cpp \
 /usr/include/c++/11/bits/cpp_type_traits.h:
 
 /usr/include/pthread.h:
-
-../cars/cars.h:
 
 /usr/include/sched.h:
 

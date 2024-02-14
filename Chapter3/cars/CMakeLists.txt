@@ -1,4 +1,0 @@
-add_library(cars OBJECT
-    cars.cpp)
-
-target_include_directories(cars PUBLIC .)

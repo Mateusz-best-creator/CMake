@@ -67,8 +67,8 @@ CMAKE_BINARY_DIR = /home/mateusz/C++/CMake/Chapter3/build
 
 # Special rule for the target edit_cache
 edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake cache editor..."
+	/usr/bin/cmake-gui -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -130,17 +130,17 @@ Learning/fast:
 .PHONY : Learning/fast
 
 #=============================================================================
-# Target rules for targets named cars
+# Target rules for targets named Cars
 
 # Build rule for target.
-cars: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cars
-.PHONY : cars
+Cars: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Cars
+.PHONY : Cars
 
 # fast build rule for target.
-cars/fast:
-	$(MAKE) $(MAKESILENT) -f cars/CMakeFiles/cars.dir/build.make cars/CMakeFiles/cars.dir/build
-.PHONY : cars/fast
+Cars/fast:
+	$(MAKE) $(MAKESILENT) -f source/cars/CMakeFiles/Cars.dir/build.make source/cars/CMakeFiles/Cars.dir/build
+.PHONY : Cars/fast
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -174,8 +174,8 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... Cars"
 	@echo "... Learning"
-	@echo "... cars"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

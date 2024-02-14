@@ -89,10 +89,10 @@ Learning_OBJECTS = \
 
 # External object files for target Learning
 Learning_EXTERNAL_OBJECTS = \
-"/home/mateusz/C++/CMake/Chapter3/build/cars/CMakeFiles/cars.dir/cars.cpp.o"
+"/home/mateusz/C++/CMake/Chapter3/build/source/cars/CMakeFiles/Cars.dir/cars.cpp.o"
 
 Learning: CMakeFiles/Learning.dir/main.cpp.o
-Learning: cars/CMakeFiles/cars.dir/cars.cpp.o
+Learning: source/cars/CMakeFiles/Cars.dir/cars.cpp.o
 Learning: CMakeFiles/Learning.dir/build.make
 Learning: CMakeFiles/Learning.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/mateusz/C++/CMake/Chapter3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Learning"

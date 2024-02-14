@@ -3,6 +3,5 @@
 
 int main()
 {
-    std::cout << "Learning CMake!" << std::endl;
     display();
 }
